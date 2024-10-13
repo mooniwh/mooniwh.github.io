@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://mooniwh.github.io</id>
+    <title>武汉历史文化介绍</title>
+    <updated>2024-10-13T04:16:43.391Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://mooniwh.github.io"/>
+    <link rel="self" href="http://mooniwh.github.io/atom.xml"/>
+    <subtitle>一个讲述武汉历史文化的小网站</subtitle>
+    <logo>http://mooniwh.github.io/images/avatar.png</logo>
+    <icon>http://mooniwh.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 武汉历史文化介绍</rights>
+    <entry>
+        <title type="html"><![CDATA[测试文章]]></title>
+        <id>http://mooniwh.github.io/post/ce-shi-wen-zhang/</id>
+        <link href="http://mooniwh.github.io/post/ce-shi-wen-zhang/">
+        </link>
+        <updated>2024-10-13T04:08:11.000Z</updated>
+        <content type="html"><![CDATA[<p>用于测试网站是否可以正常打开</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[武汉城市美图分享]]></title>
+        <id>http://mooniwh.github.io/post/wu-han-cheng-shi-mei-tu-fen-xiang/</id>
+        <link href="http://mooniwh.github.io/post/wu-han-cheng-shi-mei-tu-fen-xiang/">
+        </link>
+        <updated>2024-10-13T02:22:34.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="http://mooniwh.github.io/post-images/1728786179478.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+</feed>
